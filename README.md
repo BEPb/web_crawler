@@ -108,3 +108,4 @@ scrapy crawl quotes -O quotes.csv
 ```commandline
 scrapy crawl quotes -o quotes.jl
 ```
+<img src="img/spyder.jpg" alt="Bot logo" width="800" height="356.5">
